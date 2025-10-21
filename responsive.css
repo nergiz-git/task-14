@@ -29,3 +29,11 @@
 
 }
 
+@media screen and (min-width: 1200px) {
+  .container {
+    margin: auto;
+    max-width: 1300px !important; 
+  }
+}
+
+
