@@ -1,0 +1,100 @@
+body{
+    background-color: #f8f8f8;
+}
+
+.what{
+    display: block;
+    margin-bottom: 5px;
+    color: #ffa62b;
+    font-weight: 600;
+}
+
+.services{
+    font-size: 54px;
+    color:#000000CC;
+    line-height: 1.5;
+    margin: 0 0 24px;
+    font-weight: 400;
+}
+
+.staff{
+    width: 100%;
+    height: 100%;
+}
+
+.construction{
+    font-size: 26px;
+    font-weight: 500;
+    margin:0 0 15px;
+    color:#fff;
+}
+
+.const-3{
+        color: rgba(0, 0, 0, 0.8);
+}
+.box{
+    display: flex;
+}
+.box-1{
+    background-color: #3D424A;
+}
+.box-2{
+    background-color: #ffa62b;
+}
+.box-3{
+    background-color: #FFFFFF;
+    transition: 0.2s;
+}
+
+.text{
+    padding: 0 0 0 30px;
+
+}
+
+.description{
+    margin:0 0 24px;
+    color:#fff;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+}
+.desc-3{
+        color: #999999;
+}
+.icon{
+    font-size: 40px;
+    color:#fff
+}
+
+.learn{
+    color: #ffa62b;
+    font-size: 13px;
+    font-weight: 600;
+    border: 1px solid #ffe6c4;
+    padding: 5px 10px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.learn-3{
+background-color: #fff;
+}
+.fa-person{
+     color: #ffa62b;
+}
+
+.box-3:hover{
+     background-color: #3D424A;
+}
+.box-3:hover .icon,
+.box-3:hover .const-3,
+.box-3:hover .desc-3 {
+    color: #fff;
+    
+}
+.box-3:hover .learn-3{
+    border: none;
+}
+
+
+

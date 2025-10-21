@@ -1,0 +1,31 @@
+@media screen and (max-width:768px) {
+    .staff{
+        display: none;
+    }
+    .services{
+        font-size: 40px !important;
+    }
+    .what{
+        font-size: 13px;
+    }
+    
+}
+
+@media screen and (max-width:576px) {
+    .construction{
+        font-size: 22px;
+    }
+    .description{
+        font-size:12px;
+    }
+
+    .learn{
+        font-size:11px;
+    }
+
+    .icon{
+        font-size: 30px;
+    }
+
+}
+
